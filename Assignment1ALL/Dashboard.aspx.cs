@@ -10,7 +10,7 @@ namespace WebApplication2
 {
     public partial class Dashboard : System.Web.UI.Page
     {
-        string DB = @"Server=192.9.200.183; Database=Test_DB; User Id = winsoft; Password=winsoft@12346";
+        string DB = @"Server=192.9.200.183; Database=Test_DB; User Id = *****; Password=winsoft@*****";
 
         protected void Page_Load(object sender, EventArgs e)
         {
